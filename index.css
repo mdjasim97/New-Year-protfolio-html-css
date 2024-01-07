@@ -28,7 +28,7 @@
     position: absolute;
     top: 200px;
     color: white;
-    right: 450px;
+    right: 400px;
 }
 
 
@@ -204,6 +204,94 @@ span{
 }
 
 /* Time and Place Style Code End Here */
+
+
+
+
+
+
+
+
+
+/* Celebrate year Section style code start here */
+
+.year-celebrate{
+    display: flex;
+    width: 1320px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.clebration{
+    width: 380;
+    height: auto;
+}
+
+.offer-sub-title{
+    font-size: 25px;
+    color: #F00;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+}
+
+
+.offer-title{
+    color: #070211;
+    font-family: 'Merriweather';
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 900;
+    padding: 15px 0;
+}
+
+
+.offer-desc{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter';
+    width: 400px;
+    font-size: 25px;
+    font-style: normal;
+    padding: 0 20px 0 0;
+    font-weight: 400;
+}
+
+
+
+.img{
+    border: 15px solid red;
+    border-radius: 100%;
+    padding: 25px;
+}
+
+
+
+.new-year-div{
+    width: 393px;
+    margin-left: 450px;
+}
+
+
+.year{
+    color: #F00;
+    font-family: 'Inter';
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+
+.year-desc{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter';
+    width: 400px;
+    font-size: 25px;
+    font-style: normal;
+    padding: 25px 0;
+    font-weight: 400;
+}
+
+/* Celebrate year Section style code End here */
 
 
 
